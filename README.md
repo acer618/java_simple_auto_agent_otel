@@ -26,8 +26,11 @@ java -javaagent:libs/opentelemetry-javaagent.jar \
 curl http://<IP>:rolldice
 ```
 
-Jaeger UI to view the traces
+## Jaeger UI to view the traces
+
 http:<IP>:16686/
+
+![Alt text](images/java_agent_auto_instrumentation.png?raw=true "Optional Title")
 
 ## Useful References
 
