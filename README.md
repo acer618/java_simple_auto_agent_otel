@@ -1,3 +1,6 @@
+Simple Java application uses the Otel Java AutoInstrumentation Agent and exports traces to a Jaeger Backend
+The application uses SpringBoot framework
+
 ## Prerequisites
 
 - Java JDK 17+, due to the use of Spring Boot 3; Java 8+ otherwise
