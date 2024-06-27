@@ -33,6 +33,7 @@ http:<IP>:16686/
 
 https://opentelemetry.io/docs/zero-code/java/agent/
 https://github.com/open-telemetry/opentelemetry-java-instrumentation
+https://opentelemetry.io/docs/languages/java/configuration/#otlp-exporter-span-metric-and-log-exporters
 
 https://opentelemetry.io/docs/languages/java/configuration/
 https://opentelemetry.io/docs/languages/java/getting-started/
