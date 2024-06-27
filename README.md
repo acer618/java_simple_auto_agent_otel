@@ -38,3 +38,7 @@ https://opentelemetry.io/docs/languages/java/configuration/#otlp-exporter-span-m
 https://opentelemetry.io/docs/languages/java/configuration/
 https://opentelemetry.io/docs/languages/java/getting-started/
 https://opentelemetry.io/docs/languages/java/instrumentation/#automatic-configuration
+
+## TODO
+- Disable export of logs, metrics to avoid warnings
+- 
