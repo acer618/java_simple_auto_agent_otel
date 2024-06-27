@@ -1,7 +1,7 @@
 ## Prerequisites
 
-Java JDK 17+, due to the use of Spring Boot 3; Java 8+ otherwise
-Gradle (w/ Kotlin support)
+- Java JDK 17+, due to the use of Spring Boot 3; Java 8+ otherwise
+- Gradle (w/ Kotlin support)
 
 ## Build 
 `gradle assemble`
