@@ -1,5 +1,5 @@
 Simple Java application uses the Otel Java AutoInstrumentation Agent and exports traces to a Jaeger Backend
-The application uses SpringBoot framework
+- The application uses SpringBoot framework
 
 ## Prerequisites
 
