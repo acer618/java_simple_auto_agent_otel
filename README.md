@@ -22,6 +22,11 @@ java -javaagent:libs/opentelemetry-javaagent.jar \
      --server.port=8083 (if the springboot default 8080 is taken)
 ```
 
+curl http://<IP>:rolldice
+
+Jaeger UI to view the traces
+http:<IP>:16686/
+
 ## Useful References
 
 https://opentelemetry.io/docs/zero-code/java/agent/
