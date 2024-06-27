@@ -1,4 +1,4 @@
-Simple Java application uses the Otel Java AutoInstrumentation Agent and exports traces to a Jaeger Backend
+Simple Java application uses the ([zero code instrumentation](https://opentelemetry.io/docs/zero-code/java/agent/) Otel Java AutoInstrumentation Agent and exports traces to a Jaeger Backend
 - The application uses SpringBoot framework
 
 ## Prerequisites
