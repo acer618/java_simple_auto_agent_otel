@@ -18,9 +18,10 @@ sudo docker run --name jaeger -e COLLECTOR_OTLP_ENABLED=true   -p 16686:16686   
 ```
 java -javaagent:libs/opentelemetry-javaagent.jar \
      -Dotel.javaagent.configuration-file=config.properties \
-     -jar build/libs/java_simple_otel.jar
-     --server.port=8083 (if the springboot default 8080 is taken)
+     -jar build/libs/java_simple_simple_auto_otel.jar
+     --server.port=8083
 ```
+(if the springboot default server.port 8080 is taken)
 
 ```
 curl http://IP:rolldice
