@@ -32,7 +32,7 @@ curl http://IP:rolldice
 
 ## Jaeger UI to view the traces
 
-http://JaegerIP:16686/
+http://yourIP:16686
 
 ![Alt text](images/java_agent_auto_instrumentation.png?raw=true "Optional Title")
 
