@@ -14,7 +14,14 @@ repositories {
   mavenCentral()
 }
 
+dependencyManagement {
+  imports {
+    mavenBom("io.opentelemetry:opentelemetry-bom:1.39.0")
+  }
+}
+
 dependencies {
   implementation("org.springframework.boot:spring-boot-starter-web")
+  implementation("io.opentelemetry:opentelemetry-api");
 }
 
